@@ -1,183 +1,3 @@
-
-1000205960.jpg
-1000205959.jpg
-انهي cv شكله احترافي اكتر
-
-آه تمام، لو هنشيل المحتوى والمهارات والخبرة من المقارنة تمامًا ونحكم على التصميم + الاحترافية + قابلية التقديم للشركات بس:
-
-🥇 الأول أفضل بوضوح
-الـCV الأول عنده شكل أقرب للـProfessional Corporate CV:
-
-Typography أنضج ومتوازنة أكتر.
-
-الـBlue accent مستخدم بشكل هادي ومش مبالغ فيه.
-
-الـSections متقسمة بوضوح جدًا.
-
-الـHorizontal lines بتدي Structure كويس.
-
-الـMargins والـalignment شكلهم محسوب.
-
-مفيش عناصر بصرية ملهاش لازمة.
-
-الصفحة كلها بتحس إنها متصممة كـCV للتقديم على شركات مش مجرد CV طالب.
-
-الـVisual hierarchy ممتاز: اسم → section → subsection → details.
-
-التاني
-التاني مش وحش إطلاقًا، بالعكس شكله نظيف، لكن تصميمه أكثر تقليدية.
-
-أكتر حاجات مخلّياه أقل احترافية بالنسبة لي:
-
-الـHeadings بالـbold الأسود تقيلة شوية.
-
-الـUnderline/lines وطريقة تقسيم الأقسام بتدي إحساس CV تقليدي قديم نسبيًا.
-
-الـSkills في الآخر شكلها شبه جدول ومش مندمجة بنفس سلاسة الأول.
-
-بعض المساحات والعناصر مش متوازنة بصريًا.
-
-الـLinks والـcontact information شكلها أقل أناقة.
-
-الـCV عمومًا أقل "polished".
-
-لو HR شاف الاتنين
-من ناحية الانطباع البصري فقط:
-
-الأول:
-
-"ده CV متعمل بشكل احترافي ومقصود للتقديم."
-
-التاني:
-
-"CV طالب كويس ومنظم."
-
-وده فرق مهم.
-
-الترتيب النهائي
-1️⃣ الأول — 9/10 ⭐
-2️⃣ التاني — 7.8/10
-
-ولو أنا هختار Template أستخدمه وأبني عليه CV للتقديم لشركات/Internships → الأول بدون تردد.
-
-وبالمناسبة، الأول مش محتاج تزويق أكتر؛ لو زودت عليه ألوان أو Icons أو تصميمات زيادة غالبًا هيقل احترافيته بدل ما يزيد.
-
-
-
-DOC-20260619-WA0015.(1).pdf
-PDF
-هبعت ده لكلود عايزه يعدل الجزء بتاع depi يكتب اني خلصته خلاص وعايزو ياخد اللينك ده يقراه كويس ويفهم محتواياتو و يضيفو و انا دوري كان data scientist Hassan3443/Customer-Churn-Prediction-Pipeline
-و عايزو يكبر الخط بتاع الcv شوية صغيرين عايزو صفحة واحدة 
-اديني برومبت محتر بالانجليزي
-
-أكيد. وبما إن الـCV الحالي كاتب DEPI كـ In Progress، المطلوب يتعدل لـ Completed، مع إضافة مشروع الـCustomer Churn ودورك فيه كـData Scientist، وتكبير الخط بشكل بسيط مع الحفاظ على صفحة واحدة. 
-
-
-ده Prompt احترافي تديه لـClaude:
-
-I want you to professionally revise my attached CV while preserving its current overall design, structure, and one-page layout.
-
-Please make the following changes:
-
-1. Update DEPI Certification
-In the Certifications section, change:
-
-"Data Engineering Track — DEPI (Digital Egypt Pioneers Initiative) | In Progress"
-
-to indicate that I have successfully completed the program.
-
-Do not make it sound like I am still enrolled or currently studying it.
-
-2. Add My Customer Churn Prediction Project
-I have another GitHub project that I want you to thoroughly analyze and add to my CV:
-
-GitHub Repository — Customer Churn Prediction Pipeline
-
-Please actually inspect the repository carefully and understand:
-
-The project's purpose
-
-The technologies and tools used
-
-The data pipeline/workflow
-
-The machine learning approach
-
-The models and techniques used
-
-The project's architecture
-
-The results/evaluation if available
-
-My actual contribution and responsibilities
-
-My role in this project was Data Scientist.
-
-Based on the repository's actual contents, write a concise, professional project entry that accurately represents the work and highlights the most relevant Data Science skills.
-
-Do NOT invent technologies, responsibilities, results, or features that are not supported by the repository.
-
-3. CV Layout
-Add the new project in the Projects section while maintaining the existing visual style.
-
-4. Font Size
-The current CV text is slightly too small.
-
-Increase the overall font size slightly to improve readability and make the CV feel more polished and professional.
-
-However, this is very important:
-
-The CV MUST remain exactly one page
-
-Do not significantly change the current layout
-
-Do not make the CV look crowded
-
-Do not remove important information just to make it fit
-
-Adjust spacing, margins, line spacing, or bullet wording intelligently if necessary
-
-Keep the existing clean, professional aesthetic
-
-5. Professionalism & ATS
-Keep the CV highly professional and suitable for applying to companies and internships.
-
-Make sure the final version:
-
-Looks clean and polished
-
-Is easy to scan quickly by recruiters
-
-Remains ATS-friendly
-
-Has consistent typography and spacing
-
-Does not use unnecessary icons, graphics, colors, or decorative elements
-
-Maintains the existing professional visual identity
-
-Before finalizing, carefully review the entire CV and make sure there are no inconsistencies, awkward line breaks, formatting issues, or spelling mistakes.
-
-The final result should look like a professionally designed one-page industry CV, not an academic resume.
-
-
-
-Pasted markdown(20260816-193546).md
-File
-عدل الreadme ده بحيث يكون في اسمي 
-
-تمام، عدلت الـREADME بحيث اسم الـAuthor يبقى Hassan Ashraf Hassan ElSaadawy، وكمان خليت رابط GitHub بتاعك Hassan3443 بدل الرابط العام. باقي الـREADME زي ما هو بدون تغيير. 
-
-
- 
-
-
-
-Library
-/
-README_Hassan.md
-
-
 <div align="center">
 
 <img src="assets/banner.png" alt="Customer Churn Prediction Pipeline Banner" width="100%" />
@@ -189,47 +9,47 @@ README_Hassan.md
 <h1>📊 Customer Churn Prediction Pipeline</h1>
 
 <p>
-  <b>An end-to-end Machine Learning system for predicting customer churn at scale</b><br/>
-  Built on nearly <b>1,000,000</b> telecom customer records — from raw data to real-time prediction.
+  <b>An end-to-end Machine Learning system for predicting customer churn at scale</b><br/>
+  Built on nearly <b>1,000,000</b> telecom customer records — from raw data to real-time prediction.
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=047954&center=true&vCenter=true&width=650&lines=Predicting+Customer+Churn+at+Scale;999%2C999+Customers+%7C+32+Features;LightGBM+%2B+SQL+%2B+Streamlit+%2B+Power+BI;End-to-End+ML+Engineering+Pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=047954&center=true&vCenter=true&width=650&lines=Predicting+Customer+Churn+at+Scale;999%2C999+Customers+%7C+32+Features;LightGBM+%2B+SQL+%2B+Streamlit+%2B+Power+BI;End-to-End+ML+Engineering+Pipeline" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3.10+-047954?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-Model-0FAB7D?style=for-the-badge&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-ML-336EA8?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-D7B119?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.10+-047954?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-Model-0FAB7D?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML-336EA8?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-D7B119?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-Analytics-047954?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Reporting-0FAB7D?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Engineering-336EA8?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-D7B119?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Analytics-047954?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Reporting-0FAB7D?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Engineering-336EA8?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-D7B119?style=for-the-badge" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/build-passing-047954?style=flat-square" />
-  <img src="https://img.shields.io/badge/dataset-999%2C999%20rows-0FAB7D?style=flat-square" />
-  <img src="https://img.shields.io/badge/ROC--AUC-0.635-336EA8?style=flat-square" />
-  <img src="https://img.shields.io/badge/PRs-welcome-D7B119?style=flat-square" />
+  <img src="https://img.shields.io/badge/build-passing-047954?style=flat-square" />
+  <img src="https://img.shields.io/badge/dataset-999%2C999%20rows-0FAB7D?style=flat-square" />
+  <img src="https://img.shields.io/badge/ROC--AUC-0.635-336EA8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-welcome-D7B119?style=flat-square" />
 </p>
 
 <br/>
 
 <a href="https://customer-churn-prediction-pipeline.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Launch_App-047954?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Launch_App-047954?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
 <br/>
 
 <a href="https://customer-churn-prediction-pipeline.lovable.app/#top">
-  <img src="https://img.shields.io/badge/🚀_PROJECT-WEB-047954?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_PROJECT-WEB-047954?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -341,27 +161,27 @@ The dataset captures a wide range of signals including customer demographics, su
 
 ```mermaid
 flowchart TD
-    A[("Raw Telecom Data<br/>999,999 records")] --> B["Data Cleaning & Validation"]
-    B --> C["Feature Engineering"]
-    C --> D["SQL Server<br/>Analytical Layer"]
-    C --> E["Exploratory Data Analysis"]
-    D --> F["Model Training<br/>(LightGBM)"]
-    E --> F
-    F --> G["Model Evaluation<br/>ROC-AUC · Recall · F1"]
-    G --> H["MLflow Tracking"]
-    G --> I["Streamlit Dashboard<br/>Real-Time Prediction"]
-    G --> J["Power BI Dashboard<br/>Business Reporting"]
+    A[("Raw Telecom Data<br/>999,999 records")] --> B["Data Cleaning & Validation"]
+    B --> C["Feature Engineering"]
+    C --> D["SQL Server<br/>Analytical Layer"]
+    C --> E["Exploratory Data Analysis"]
+    D --> F["Model Training<br/>(LightGBM)"]
+    E --> F
+    F --> G["Model Evaluation<br/>ROC-AUC · Recall · F1"]
+    G --> H["MLflow Tracking"]
+    G --> I["Streamlit Dashboard<br/>Real-Time Prediction"]
+    G --> J["Power BI Dashboard<br/>Business Reporting"]
 
-    style A fill:#336EA8,color:#fff
-    style B fill:#0FAB7D,color:#fff
-    style C fill:#0FAB7D,color:#fff
-    style D fill:#047954,color:#fff
-    style E fill:#047954,color:#fff
-    style F fill:#D7B119,color:#000
-    style G fill:#D7B119,color:#000
-    style H fill:#336EA8,color:#fff
-    style I fill:#047954,color:#fff
-    style J fill:#047954,color:#fff
+    style A fill:#336EA8,color:#fff
+    style B fill:#0FAB7D,color:#fff
+    style C fill:#0FAB7D,color:#fff
+    style D fill:#047954,color:#fff
+    style E fill:#047954,color:#fff
+    style F fill:#D7B119,color:#000
+    style G fill:#D7B119,color:#000
+    style H fill:#336EA8,color:#fff
+    style I fill:#047954,color:#fff
+    style J fill:#047954,color:#fff
 ```
 
 ---
@@ -376,21 +196,21 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    A["Raw Data"] --> B["Missing Value<br/>Handling"]
-    B --> C["Outlier<br/>Treatment"]
-    C --> D["Encoding<br/>Categorical Features"]
-    D --> E["Feature<br/>Scaling"]
-    E --> F["Train/Test<br/>Split"]
-    F --> G["Model Training<br/>LightGBM"]
-    G --> H["Hyperparameter<br/>Tuning"]
-    H --> I["Model<br/>Evaluation"]
-    I --> J["Model<br/>Serialization"]
-    J --> K["Deployment<br/>Streamlit + Power BI"]
+    A["Raw Data"] --> B["Missing Value<br/>Handling"]
+    B --> C["Outlier<br/>Treatment"]
+    C --> D["Encoding<br/>Categorical Features"]
+    D --> E["Feature<br/>Scaling"]
+    E --> F["Train/Test<br/>Split"]
+    F --> G["Model Training<br/>LightGBM"]
+    G --> H["Hyperparameter<br/>Tuning"]
+    H --> I["Model<br/>Evaluation"]
+    I --> J["Model<br/>Serialization"]
+    J --> K["Deployment<br/>Streamlit + Power BI"]
 
-    style A fill:#336EA8,color:#fff
-    style G fill:#D7B119,color:#000
-    style I fill:#047954,color:#fff
-    style K fill:#0FAB7D,color:#fff
+    style A fill:#336EA8,color:#fff
+    style G fill:#D7B119,color:#000
+    style I fill:#047954,color:#fff
+    style K fill:#0FAB7D,color:#fff
 ```
 
 ---
@@ -400,60 +220,60 @@ flowchart LR
 ```
 customer-churn-prediction-pipeline/
 │
-├── assets/                     # Images, banners, and diagrams used in documentation
-│   ├── logo.png
-│   ├── banner.png
-│   ├── dashboard.gif
-│   ├── architecture.png
-│   ├── pipeline.png
-│   ├── feature_importance.png
-│   ├── roc_curve.png
-│   ├── confusion_matrix.png
-│   ├── sql_analysis.png
-│   ├── powerbi_dashboard.png
-│   ├── home.png
-│   ├── prediction.png
-│   └── charts.png
+├── assets/                     # Images, banners, and diagrams used in documentation
+│   ├── logo.png
+│   ├── banner.png
+│   ├── dashboard.gif
+│   ├── architecture.png
+│   ├── pipeline.png
+│   ├── feature_importance.png
+│   ├── roc_curve.png
+│   ├── confusion_matrix.png
+│   ├── sql_analysis.png
+│   ├── powerbi_dashboard.png
+│   ├── home.png
+│   ├── prediction.png
+│   └── charts.png
 │
 |── data/
-│   ├── raw/                        # Original dataset (do not modify)
-│   │   └── customer_churn.csv
-│   └── processed/                  # Cleaned & encoded dataset
-│       └── clean_data.csv
+│   ├── raw/                        # Original dataset (do not modify)
+│   │   └── customer_churn.csv
+│   └── processed/                  # Cleaned & encoded dataset
+│       └── clean_data.csv
 │
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb   # Initial data exploration
-│   ├── 02_data_preprocessing.ipynb # Cleaning, encoding, scaling
-│   ├── 03_model_training.ipynb     # Model building & comparison
-│   ├── 04_model_evaluation.ipynb   # Metrics, confusion matrix
-│   └── 05_sql_analysis.ipynb       # SQL queries & insights
+│   ├── 01_data_exploration.ipynb   # Initial data exploration
+│   ├── 02_data_preprocessing.ipynb # Cleaning, encoding, scaling
+│   ├── 03_model_training.ipynb     # Model building & comparison
+│   ├── 04_model_evaluation.ipynb   # Metrics, confusion matrix
+│   └── 05_sql_analysis.ipynb       # SQL queries & insights
 │
 ├── database/
-│   ├── schema.sql                  # Database schema
-│   ├── load_data.py                # Load CSV to SQL Server
-│   └── queries/
-│       ├── 01_churn_rate.sql
-│       ├── 02_churn_by_contract.sql
-│       ├── 03_high_risk_customers.sql
-│       ├── 04_churn_by_charges.sql
-│       └── 05_churn_by_tenure.sql
+│   ├── schema.sql                  # Database schema
+│   ├── load_data.py                # Load CSV to SQL Server
+│   └── queries/
+│       ├── 01_churn_rate.sql
+│       ├── 02_churn_by_contract.sql
+│       ├── 03_high_risk_customers.sql
+│       ├── 04_churn_by_charges.sql
+│       └── 05_churn_by_tenure.sql
 │
 ├── models/
-│   ├── lgbm_model.pkl              # Trained LightGBM model
-│   └── scaler/
-│       └── scaler.pk1              # Fitted StandardScaler
+│   ├── lgbm_model.pkl              # Trained LightGBM model
+│   └── scaler/
+│       └── scaler.pk1              # Fitted StandardScaler
 │
 ├── app/
-│   └── streamlit_app.py            # Interactive dashboard
+│   └── streamlit_app.py            # Interactive dashboard
 │
 ├── reports/
-│   ├── data_engineering_report.pdf
-│   ├── data_science_report.pdf
-│   ├── eda_report.pdf
-│   ├── sql_analysis_report.pdf
-│   └── dashboards_report.pdf
+│   ├── data_engineering_report.pdf
+│   ├── data_science_report.pdf
+│   ├── eda_report.pdf
+│   ├── sql_analysis_report.pdf
+│   └── dashboards_report.pdf
 │
-├── powerbi/                     # Power BI report files
+├── powerbi/                     # Power BI report files
 │
 │
 ├── requirements.txt
@@ -599,7 +419,7 @@ The final model prioritizes **recall over precision**, reflecting the business r
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,mysql&theme=dark" />
 </p>
 
 ---
@@ -613,7 +433,7 @@ cd customer-churn-prediction-pipeline
 
 # 2. Create a virtual environment
 python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
+source venv/bin/activate      # On Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -690,7 +510,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ### ⭐ If you found this project useful, consider giving it a star!
 
 <a href="#">
-  <img src="https://img.shields.io/badge/⭐_Star_this_Repository-047954?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐_Star_this_Repository-047954?style=for-the-badge" />
 </a>
 
 <br/><br/>
@@ -698,4 +518,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <sub>Built with 🐍 Python, 💡 LightGBM, and a lot of coffee.</sub>
 
 </div>
-
