@@ -1,3 +1,183 @@
+
+1000205960.jpg
+1000205959.jpg
+انهي cv شكله احترافي اكتر
+
+آه تمام، لو هنشيل المحتوى والمهارات والخبرة من المقارنة تمامًا ونحكم على التصميم + الاحترافية + قابلية التقديم للشركات بس:
+
+🥇 الأول أفضل بوضوح
+الـCV الأول عنده شكل أقرب للـProfessional Corporate CV:
+
+Typography أنضج ومتوازنة أكتر.
+
+الـBlue accent مستخدم بشكل هادي ومش مبالغ فيه.
+
+الـSections متقسمة بوضوح جدًا.
+
+الـHorizontal lines بتدي Structure كويس.
+
+الـMargins والـalignment شكلهم محسوب.
+
+مفيش عناصر بصرية ملهاش لازمة.
+
+الصفحة كلها بتحس إنها متصممة كـCV للتقديم على شركات مش مجرد CV طالب.
+
+الـVisual hierarchy ممتاز: اسم → section → subsection → details.
+
+التاني
+التاني مش وحش إطلاقًا، بالعكس شكله نظيف، لكن تصميمه أكثر تقليدية.
+
+أكتر حاجات مخلّياه أقل احترافية بالنسبة لي:
+
+الـHeadings بالـbold الأسود تقيلة شوية.
+
+الـUnderline/lines وطريقة تقسيم الأقسام بتدي إحساس CV تقليدي قديم نسبيًا.
+
+الـSkills في الآخر شكلها شبه جدول ومش مندمجة بنفس سلاسة الأول.
+
+بعض المساحات والعناصر مش متوازنة بصريًا.
+
+الـLinks والـcontact information شكلها أقل أناقة.
+
+الـCV عمومًا أقل "polished".
+
+لو HR شاف الاتنين
+من ناحية الانطباع البصري فقط:
+
+الأول:
+
+"ده CV متعمل بشكل احترافي ومقصود للتقديم."
+
+التاني:
+
+"CV طالب كويس ومنظم."
+
+وده فرق مهم.
+
+الترتيب النهائي
+1️⃣ الأول — 9/10 ⭐
+2️⃣ التاني — 7.8/10
+
+ولو أنا هختار Template أستخدمه وأبني عليه CV للتقديم لشركات/Internships → الأول بدون تردد.
+
+وبالمناسبة، الأول مش محتاج تزويق أكتر؛ لو زودت عليه ألوان أو Icons أو تصميمات زيادة غالبًا هيقل احترافيته بدل ما يزيد.
+
+
+
+DOC-20260619-WA0015.(1).pdf
+PDF
+هبعت ده لكلود عايزه يعدل الجزء بتاع depi يكتب اني خلصته خلاص وعايزو ياخد اللينك ده يقراه كويس ويفهم محتواياتو و يضيفو و انا دوري كان data scientist Hassan3443/Customer-Churn-Prediction-Pipeline
+و عايزو يكبر الخط بتاع الcv شوية صغيرين عايزو صفحة واحدة 
+اديني برومبت محتر بالانجليزي
+
+أكيد. وبما إن الـCV الحالي كاتب DEPI كـ In Progress، المطلوب يتعدل لـ Completed، مع إضافة مشروع الـCustomer Churn ودورك فيه كـData Scientist، وتكبير الخط بشكل بسيط مع الحفاظ على صفحة واحدة. 
+
+
+ده Prompt احترافي تديه لـClaude:
+
+I want you to professionally revise my attached CV while preserving its current overall design, structure, and one-page layout.
+
+Please make the following changes:
+
+1. Update DEPI Certification
+In the Certifications section, change:
+
+"Data Engineering Track — DEPI (Digital Egypt Pioneers Initiative) | In Progress"
+
+to indicate that I have successfully completed the program.
+
+Do not make it sound like I am still enrolled or currently studying it.
+
+2. Add My Customer Churn Prediction Project
+I have another GitHub project that I want you to thoroughly analyze and add to my CV:
+
+GitHub Repository — Customer Churn Prediction Pipeline
+
+Please actually inspect the repository carefully and understand:
+
+The project's purpose
+
+The technologies and tools used
+
+The data pipeline/workflow
+
+The machine learning approach
+
+The models and techniques used
+
+The project's architecture
+
+The results/evaluation if available
+
+My actual contribution and responsibilities
+
+My role in this project was Data Scientist.
+
+Based on the repository's actual contents, write a concise, professional project entry that accurately represents the work and highlights the most relevant Data Science skills.
+
+Do NOT invent technologies, responsibilities, results, or features that are not supported by the repository.
+
+3. CV Layout
+Add the new project in the Projects section while maintaining the existing visual style.
+
+4. Font Size
+The current CV text is slightly too small.
+
+Increase the overall font size slightly to improve readability and make the CV feel more polished and professional.
+
+However, this is very important:
+
+The CV MUST remain exactly one page
+
+Do not significantly change the current layout
+
+Do not make the CV look crowded
+
+Do not remove important information just to make it fit
+
+Adjust spacing, margins, line spacing, or bullet wording intelligently if necessary
+
+Keep the existing clean, professional aesthetic
+
+5. Professionalism & ATS
+Keep the CV highly professional and suitable for applying to companies and internships.
+
+Make sure the final version:
+
+Looks clean and polished
+
+Is easy to scan quickly by recruiters
+
+Remains ATS-friendly
+
+Has consistent typography and spacing
+
+Does not use unnecessary icons, graphics, colors, or decorative elements
+
+Maintains the existing professional visual identity
+
+Before finalizing, carefully review the entire CV and make sure there are no inconsistencies, awkward line breaks, formatting issues, or spelling mistakes.
+
+The final result should look like a professionally designed one-page industry CV, not an academic resume.
+
+
+
+Pasted markdown(20260816-193546).md
+File
+عدل الreadme ده بحيث يكون في اسمي 
+
+تمام، عدلت الـREADME بحيث اسم الـAuthor يبقى Hassan Ashraf Hassan ElSaadawy، وكمان خليت رابط GitHub بتاعك Hassan3443 بدل الرابط العام. باقي الـREADME زي ما هو بدون تغيير. 
+
+
+ 
+
+
+
+Library
+/
+README_Hassan.md
+
+
 <div align="center">
 
 <img src="assets/banner.png" alt="Customer Churn Prediction Pipeline Banner" width="100%" />
@@ -518,3 +698,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <sub>Built with 🐍 Python, 💡 LightGBM, and a lot of coffee.</sub>
 
 </div>
+
