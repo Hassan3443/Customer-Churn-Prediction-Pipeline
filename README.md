@@ -30,13 +30,10 @@
   <img src="https://img.shields.io/badge/SQL%20Server-Analytics-047954?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Reporting-0FAB7D?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Engineering-336EA8?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-D7B119?style=for-the-badge" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/build-passing-047954?style=flat-square" />
   <img src="https://img.shields.io/badge/dataset-999%2C999%20rows-0FAB7D?style=flat-square" />
   <img src="https://img.shields.io/badge/ROC--AUC-0.635-336EA8?style=flat-square" />
-  <img src="https://img.shields.io/badge/PRs-welcome-D7B119?style=flat-square" />
 </p>
 
 <br/>
@@ -87,17 +84,16 @@
 - [Usage](#-usage)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
-- [License](#-license)
 
 ---
 
 ## 🧭 Project Overview
 
-**Customer Churn Prediction Pipeline** is a production-grade, end-to-end machine learning system designed to identify telecom customers at risk of churning **before they leave**. The project spans the full data lifecycle — ingestion, cleaning, validation, feature engineering, exploratory analysis, SQL-based reporting, model training, evaluation, and deployment through interactive dashboards.
+**Customer Churn Prediction Pipeline** is an end-to-end machine learning project designed to identify telecom customers at risk of churning **before they leave**. The project spans the full data lifecycle — ingestion, cleaning, validation, feature engineering, exploratory analysis, SQL-based reporting, model training, evaluation, and deployment through interactive dashboards.
 
 Built on a dataset of **999,999 customer records** and **32 features**, the pipeline combines rigorous data engineering with a tuned **LightGBM** classifier, surfaced through both a **Streamlit** web application for real-time prediction and a **Power BI** dashboard for executive-level business reporting.
 
-> 💡 This repository is structured to mirror how churn prediction systems are built and deployed in real production environments — not as a one-off notebook, but as a maintainable, modular pipeline.
+> 💡 The repository covers the full path in one place: data preparation, SQL analytics, model training, a Streamlit app and a Power BI dashboard. It was built as a team project in the Digital Egypt Pioneers Initiative (DEPI) Data Engineering track.
 
 ---
 
@@ -122,15 +118,14 @@ By converting raw usage and billing data into a calibrated churn probability sco
 | | Capability |
 |---|---|
 | ✔ | Automated **data cleaning** & validation pipeline |
-| ✔ | Robust **feature engineering** on raw telecom data |
+| ✔ | **Feature engineering** on raw telecom data |
 | ✔ | In-depth **exploratory data analysis (EDA)** |
 | ✔ | **SQL Server** analytical queries for business reporting |
 | ✔ | **Machine Learning** model training & benchmarking |
 | ✔ | Rigorous **model evaluation** (ROC-AUC, Recall, F1, Confusion Matrix) |
 | ✔ | Interactive **Streamlit dashboard** with real-time prediction |
 | ✔ | Executive **Power BI dashboard** for stakeholder reporting |
-| ✔ | **MLflow** experiment tracking for reproducibility |
-| ✔ | **Real-time prediction** API/interface for single-customer scoring |
+| ✔ | Single-customer scoring in the Streamlit app |
 
 ---
 
@@ -168,7 +163,6 @@ flowchart TD
     D --> F["Model Training<br/>(LightGBM)"]
     E --> F
     F --> G["Model Evaluation<br/>ROC-AUC · Recall · F1"]
-    G --> H["MLflow Tracking"]
     G --> I["Streamlit Dashboard<br/>Real-Time Prediction"]
     G --> J["Power BI Dashboard<br/>Business Reporting"]
 
@@ -179,7 +173,6 @@ flowchart TD
     style E fill:#047954,color:#fff
     style F fill:#D7B119,color:#000
     style G fill:#D7B119,color:#000
-    style H fill:#336EA8,color:#fff
     style I fill:#047954,color:#fff
     style J fill:#047954,color:#fff
 ```
@@ -218,67 +211,29 @@ flowchart LR
 ## 📁 Project Structure
 
 ```
-customer-churn-prediction-pipeline/
-│
-├── assets/                     # Images, banners, and diagrams used in documentation
-│   ├── logo.png
-│   ├── banner.png
-│   ├── dashboard.gif
-│   ├── architecture.png
-│   ├── pipeline.png
-│   ├── feature_importance.png
-│   ├── roc_curve.png
-│   ├── confusion_matrix.png
-│   ├── sql_analysis.png
-│   ├── powerbi_dashboard.png
-│   ├── home.png
-│   ├── prediction.png
-│   └── charts.png
-│
-|── data/
-│   ├── raw/                        # Original dataset (do not modify)
-│   │   └── customer_churn.csv
-│   └── processed/                  # Cleaned & encoded dataset
-│       └── clean_data.csv
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb   # Initial data exploration
-│   ├── 02_data_preprocessing.ipynb # Cleaning, encoding, scaling
-│   ├── 03_model_training.ipynb     # Model building & comparison
-│   ├── 04_model_evaluation.ipynb   # Metrics, confusion matrix
-│   └── 05_sql_analysis.ipynb       # SQL queries & insights
-│
-├── database/
-│   ├── schema.sql                  # Database schema
-│   ├── load_data.py                # Load CSV to SQL Server
-│   └── queries/
-│       ├── 01_churn_rate.sql
-│       ├── 02_churn_by_contract.sql
-│       ├── 03_high_risk_customers.sql
-│       ├── 04_churn_by_charges.sql
-│       └── 05_churn_by_tenure.sql
-│
-├── models/
-│   ├── lgbm_model.pkl              # Trained LightGBM model
-│   └── scaler/
-│       └── scaler.pk1              # Fitted StandardScaler
-│
+Customer-Churn-Prediction-Pipeline/
 ├── app/
-│   └── streamlit_app.py            # Interactive dashboard
-│
-├── reports/
-│   ├── data_engineering_report.pdf
-│   ├── data_science_report.pdf
-│   ├── eda_report.pdf
-│   ├── sql_analysis_report.pdf
-│   └── dashboards_report.pdf
-│
-├── powerbi/                     # Power BI report files
-│
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
+│   └── streamlit_app.py              # Streamlit dashboard
+├── assets/                           # Images and diagrams used in this README
+├── data/
+│   ├── raw/README.md                 # Link to download the raw dataset
+│   └── processed/                    # 5,000-row sample of the cleaned data
+├── database/
+│   ├── schema.sql                    # Database schema
+│   ├── load_data.py                  # Load the cleaned CSV into SQL Server
+│   └── queries/                      # 5 analytical SQL queries
+├── models/
+│   ├── lgbm_model.pkl                # Trained LightGBM model
+│   └── scaler/scaler.pk1             # Fitted scaler
+├── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_model_training.ipynb
+│   ├── 03_model_evaluation.ipynb
+│   ├── 04_data_analysis.ipynb
+│   └── 05_sql_analysis.ipynb
+├── reports/                          # Documentation, presentation and reports (PDF/PPTX)
+├── Churned Customers de project.pbix # Power BI dashboard file
+└── requirements.txt
 ```
 
 ---
@@ -317,7 +272,7 @@ A dedicated **SQL Server** analytical layer was built to answer business-facing 
 
 ## 🤖 Machine Learning
 
-Multiple candidate algorithms were trained and benchmarked, with **LightGBM** selected as the production model based on its balance of predictive performance and training efficiency on the full 999,999-row dataset.
+Multiple candidate algorithms were trained and benchmarked, with **LightGBM** selected as the final model. Models were trained on 799,999 records and evaluated on a 200,000-record test set (figures from `reports/data_science_report.pdf`).
 
 ### Model Comparison
 
@@ -331,7 +286,7 @@ Multiple candidate algorithms were trained and benchmarked, with **LightGBM** se
 
 </div>
 
-> 🏆 **LightGBM** was selected as the final production model, delivering the strongest recall on the churn class — prioritizing the ability to catch at-risk customers.
+> 🏆 **LightGBM** was selected as the final model. It scored best on all three metrics, with the strongest recall on the churn class. The F1-score is low (0.257), so many flagged customers are false alarms. The model works as a ranking aid for retention campaigns, not as a precise classifier.
 
 ---
 
@@ -414,12 +369,12 @@ The final model prioritizes **recall over precision**, reflecting the business r
 | **Database** | SQL Server |
 | **Web App** | Streamlit |
 | **BI & Reporting** | Power BI |
-| **Visualization** | Matplotlib |
+| **Visualization** | Matplotlib, Seaborn |
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,streamlit&theme=dark" />
 </p>
 
 ---
@@ -428,8 +383,8 @@ The final model prioritizes **recall over precision**, reflecting the business r
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/customer-churn-prediction-pipeline.git
-cd customer-churn-prediction-pipeline
+git clone https://github.com/Hassan3443/Customer-Churn-Prediction-Pipeline.git
+cd Customer-Churn-Prediction-Pipeline
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -438,32 +393,34 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. (Optional) Configure SQL Server connection
-# Update your connection string in src/config.py
+# 4. (Optional) SQL Server: edit the server name and CSV path at the top of database/load_data.py
 ```
 
 ---
 
 ## 🚀 How to Run
 
-### 1. Prepare data
+### 1. Get the data
+
+Download the raw dataset using the link in `data/raw/README.md`. A 5,000-row sample of the cleaned data is in `data/processed/`.
+
+### 2. Prepare data
 
 ```bash
 # Run preprocessing notebook
 jupyter notebook notebooks/02_data_preprocessing.ipynb
 ```
 
-### 2. Train model
+### 3. Train model
 
 ```bash
 # Run training notebook
 jupyter notebook notebooks/03_model_training.ipynb
 ```
 
-### 3. Launch dashboard
+### 4. Launch dashboard
 
 ```bash
-cd D:\project
 streamlit run app/streamlit_app.py
 ```
 
@@ -496,12 +453,6 @@ Machine Learning & Data Engineering
 [![Streamlit](https://img.shields.io/badge/Live_Demo-App-0FAB7D?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-pipeline.streamlit.app/)
 
 </div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
