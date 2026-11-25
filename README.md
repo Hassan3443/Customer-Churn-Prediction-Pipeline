@@ -449,7 +449,7 @@ streamlit run app/streamlit_app.py
 **Hassan Ashraf Hassan ElSaadawy**
 Machine Learning & Data Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-047954?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-047954?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan3443)
 [![Streamlit](https://img.shields.io/badge/Live_Demo-App-0FAB7D?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-pipeline.streamlit.app/)
 
 </div>
