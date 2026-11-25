@@ -55,6 +55,28 @@
 
 </div>
 
+## Live explorer and honest evaluation
+
+**[Open the interactive explorer](https://hassan3443.github.io/Customer-Churn-Prediction-Pipeline/)** (static page, own scoring in the browser) or the original [Streamlit app](https://customer-churn-prediction-pipeline.streamlit.app/).
+
+`src/model_report.py` loads the saved LightGBM model and evaluates it on the 5,000-row cleaned sample in `data/processed/`, using a fixed 50/50 split (one half fits a probability calibrator, the other half is only for evaluation). Results on the 2,500 held-out rows:
+
+| Metric | Value |
+|---|---|
+| ROC-AUC, saved LightGBM | 0.706 |
+| ROC-AUC, plain logistic regression (same split) | 0.672 |
+| PR-AUC (base rate 9.66%) | 0.255 |
+| Top 10% by score: precision / recall | 25.2% / 26.1% (2.61x lift) |
+| Brier score, raw / calibrated / base rate | 0.219 / 0.081 / 0.087 |
+
+Limits, stated plainly:
+- The model was trained on the 999,999-row dataset, which is not in this repo, and its test ROC-AUC there was 0.635 (table below). The sample may overlap the training data, so 0.706 is probably optimistic.
+- Raw scores average 0.455 while 9.66% of customers churn, so they are not probabilities. The explorer applies a Platt calibrator fitted on the sample.
+- With a 9.7% base rate and AUC in the 0.6 to 0.7 range, the model ranks churners better than chance but not sharply. Use it to prioritise outreach, not to decide individual cases.
+
+Run `pip install lightgbm scikit-learn pandas numpy joblib pytest && pytest -q` (10 tests, including a check that the 100 trees exported to JSON score identically in Python and in Node). CI runs the same on every push.
+
+
 <br/>
 
 ---
