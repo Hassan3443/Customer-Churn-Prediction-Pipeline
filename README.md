@@ -446,7 +446,7 @@ streamlit run app/streamlit_app.py
 
 <div align="center">
 
-**Omar**
+**Hassan Ashraf Hassan ElSaadawy**
 Machine Learning & Data Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-047954?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
